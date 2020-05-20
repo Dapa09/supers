@@ -1,0 +1,47 @@
+[{
+    "Nombre":"Bombón",
+    "Cualidades": "Organizada, sensata y decidida",
+    "Color": "Rojo",
+    "Rol": "Heroína",
+    "Poderes": "Aliento helado, inteligencia de genio, visión microscópica e intuición",
+    "foto": "https://vignette.wikia.nocookie.net/superpoderosa/images/f/fd/Bomb%C3%B3n.png/revision/latest/scale-to-width-down/340?cb=20160202043014&path-prefix=es"
+
+},
+{
+    "Nombre":"Bellota",
+    "Cualidades": "Fuerza, determinación, testaruda",
+    "Color": "Verde",
+    "Rol": "Heroína",
+    "Poderes": "Puede volar y posee fuerza sobrehumana, pero también puede crear armas realmente útiles",
+    "foto": "https://i.pinimg.com/originals/1c/56/42/1c564246cb997e8a8674ffe4b2219e51.png"
+
+},
+{
+    "Nombre":"Burbuja",
+    "Cualidades": "Linda, amable y tierna",
+    "Color": "Azul",
+    "Rol": "Heroína",
+    "Poderes": "Construcciones de energía de color azul, voz rompe vidrios, comunicación con animales, visión láser",
+    "foto": "https://vignette.wikia.nocookie.net/superpoderosa/images/5/52/Burbuja.png/revision/latest/scale-to-width-down/340?cb=20160218225605&path-prefix=es"
+
+},
+{
+    "Nombre":"Mojojo",
+    "Cualidades": "Es un chimpancé científico demente notable",
+    "Color": "Negro",
+    "Rol": "Villano",
+    "Poderes": "Inteligencia",
+    "foto": "https://vignette.wikia.nocookie.net/doblaje/images/c/c7/Mojo.gif/revision/latest/top-crop/width/360/height/450?cb=20140720051301&path-prefix=es"
+
+},
+{
+    "Nombre":"El",
+    "Cualidades": "Manipulación sobre las personas que destacan de forma más psicológica que física",
+    "Color": "Rojo",
+    "Rol": "Villano",
+    "Poderes": "Mentales y demoníacos",
+    "foto": "https://vignette.wikia.nocookie.net/las-chicas-superpoderosas-reboot/images/e/ed/Bio-him.png/revision/latest/scale-to-width-down/350?cb=20160624154107&path-prefix=es"
+
+}
+]
+
